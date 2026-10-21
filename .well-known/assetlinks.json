@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.hawladerrabby.benchbattle", "sha256_cert_fingerprints": ["B7:B8:CF:D5:7B:30:17:76:FF:0B:69:94:2A:63:95:CB:73:D9:5D:D5:19:79:A6:F4:EC:26:76:2B:C4:BD:8F:0F"]}}]
